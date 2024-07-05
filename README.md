@@ -1,1 +1,1 @@
-# oinfo-bias
+# Bias in the O-information 
